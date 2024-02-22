@@ -334,12 +334,14 @@ In summary, the hotel reservation dataset serves as a valuable resource for unde
 <img width="372" alt="image" src="https://github.com/Akinyemibolatito/AKINYEMI-BOLATITO/assets/62047960/caaae7db-3f38-48c0-940f-664596b51c03">
 
 <a href="http://www.github.com/Akinyemibolatito"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Akinyemibolatito&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<img width="401" alt="image" src="https://github.com/Akinyemibolatito/AKINYEMI-BOLATITO/assets/62047960/28a8f968-f243-49d8-8b97-c830a66ef8ca">
 
 <a href="http://www.github.com/Akinyemibolatito"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Akinyemibolatito&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Akinyemibolatito" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akinyemibolatito&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<img width="401" alt="image" src="https://github.com/Akinyemibolatito/AKINYEMI-BOLATITO/assets/62047960/28a8f968-f243-49d8-8b97-c830a66ef8ca">
 
+
+<img width="242" alt="image" src="https://github.com/Akinyemibolatito/AKINYEMI-BOLATITO/assets/62047960/65e3e136-fa27-449a-83ae-2be87288854a">
 
 <b>Top Repositories</b>
 
