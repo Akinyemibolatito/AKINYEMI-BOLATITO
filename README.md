@@ -1,4 +1,4 @@
-)# AKINYEMI-BOLATITO (go to README.md for full details)
+\# AKINYEMI-BOLATITO
 
 Hi 👋 My name is Akinyemi Bolatito. 
 ==================================
