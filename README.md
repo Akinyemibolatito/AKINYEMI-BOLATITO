@@ -1,6 +1,6 @@
-# AKINYEMI-BOLATITO
+)# AKINYEMI-BOLATITO (go to README.md for full details)
 
-Hi 👋 My name is Akinyemi Bolatito
+Hi 👋 My name is Akinyemi Bolatito. 
 ==================================
 
 Data Analyst
