@@ -308,11 +308,6 @@ In summary, the hotel reservation dataset serves as a valuable resource for unde
  FIND BELOW SOME DASHBOARD REPORTS:
 
  ![image](https://github.com/Akinyemibolatito/AKINYEMI-BOLATITO/assets/62047960/39d4a754-2f8e-423b-b110-b8b9b8a55ff6)
-### Badges
-<img width="372" alt="image" src="https://github.com/Akinyemibolatito/AKINYEMI-BOLATITO/assets/62047960/caaae7db-3f38-48c0-940f-664596b51c03">
-<img width="401" alt="image" src="https://github.com/Akinyemibolatito/AKINYEMI-BOLATITO/assets/62047960/28a8f968-f243-49d8-8b97-c830a66ef8ca">
-<img width="242" alt="image" src="https://github.com/Akinyemibolatito/AKINYEMI-BOLATITO/assets/62047960/65e3e136-fa27-449a-83ae-2be87288854a">
-
 
 
 
