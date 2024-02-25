@@ -1,4 +1,6 @@
-\# AKINYEMI-BOLATITO
+# AKINYEMI-BOLATITO( FULL PROFILE IS ON MY GITHUB @ https://github.com/Akinyemibolatito/AKINYEMI-BOLATITO/blob/main/README.md)
+
+GITHUB LINK IS https://github.com/Akinyemibolatito
 
 Hi 👋 My name is Akinyemi Bolatito. 
 ==================================
